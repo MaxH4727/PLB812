@@ -1,5 +1,5 @@
 1. Genome
-Searched for Arabidopsis on Phytozome. Opened most up-to-date genome (Araport 11). Selected files for genome assembly and annotation, and used the provided command line download curl command to download to HPCC. Uncompressed  using tar. Called head to take screenshots of both files, recompressed using gzip.
+Searched for Arabidopsis on Phytozome. Opened most up-to-date genome (Araport 11). Selected files for genome assembly and annotation, and used the provided command line download curl command to download to HPCC. Uncompressed  using unzip. Called head to take screenshots of both files, recompressed using gzip.
 
 2. RNA-seq data
 Followed excel provided link to NCBI page for accession (PRJEB8427) and clicked through the contributing datasets to find my assigned genotype (Blh1). Used BioSample ID SAMEA3245923 with prefetch to download file to HPCC and fastq-dump to uncompress. Called head, took screenshot, recompressed with gzip.
