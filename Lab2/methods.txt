@@ -1,0 +1,14 @@
+1. Fastqc
+
+Downloaded fastqc to conda envirmoment. 
+
+Drafted shell script using proper headings, and set cpus-per-task to three in line with how many threads I desgnated the fastqc command to run. 
+
+Set wd to the dir containing my fastq files.
+
+Added the conda enviroment to the PATH and LD_LIBRARY_PATH variables.
+
+Called fastqc, designted the output directory with -o and the numbers of threads as 3 with -t. listed the three files seperated by spaces.
+
+
+
