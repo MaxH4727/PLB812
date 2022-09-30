@@ -1,14 +1,9 @@
 1. Fastqc
 
-Downloaded fastqc to conda envirmoment. 
+After downloading the full contingent of SRA files needed, I continued running into problems with some of them being "truncated" and aborting midway through fastqc analysis. I determined this was likely casued by an interuption during their fastq-dump after a series of wipes and attempted re-doing on the process from prefetch. 
 
-Drafted shell script using proper headings, and set cpus-per-task to three in line with how many threads I desgnated the fastqc command to run. 
+While a hassle, the repeated expeiance got me very familair with the process, and frustrated enough that by the end of it, I have now written a script than puts together every step from prefetch to fastqc, which worked, and heavily draws upon the basic loop example script provided.
 
-Set wd to the dir containing my fastq files.
-
-Added the conda enviroment to the PATH and LD_LIBRARY_PATH variables.
-
-Called fastqc, designted the output directory with -o and the numbers of threads as 3 with -t. listed the three files seperated by spaces.
-
+The script is titled rnfastqc.sh, and is contained in my Lab2 folder along with this methods document.
 
 

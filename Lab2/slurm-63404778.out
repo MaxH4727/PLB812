@@ -1,0 +1,379 @@
+
+2022-09-29T22:26:33 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-09-29T22:26:33 prefetch.3.0.0: 1) Downloading 'ERR754080'...
+2022-09-29T22:26:33 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-09-29T22:26:33 prefetch.3.0.0:  Downloading via HTTPS...
+2022-09-29T22:28:35 prefetch.3.0.0:  HTTPS download succeed
+2022-09-29T22:28:43 prefetch.3.0.0:  'ERR754080' is valid
+2022-09-29T22:28:43 prefetch.3.0.0: 1) 'ERR754080' was downloaded successfully
+2022-09-29T22:28:43 prefetch.3.0.0: 'SAMEA3245902' has 0 unresolved dependencies
+
+2022-09-29T22:28:44 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-09-29T22:28:44 prefetch.3.0.0: 1) Downloading 'ERR754067'...
+2022-09-29T22:28:44 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-09-29T22:28:44 prefetch.3.0.0:  Downloading via HTTPS...
+2022-09-29T22:29:59 prefetch.3.0.0:  HTTPS download succeed
+2022-09-29T22:30:05 prefetch.3.0.0:  'ERR754067' is valid
+2022-09-29T22:30:05 prefetch.3.0.0: 1) 'ERR754067' was downloaded successfully
+2022-09-29T22:30:05 prefetch.3.0.0: 'SAMEA3245900' has 0 unresolved dependencies
+
+2022-09-29T22:30:06 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-09-29T22:30:06 prefetch.3.0.0: 1) Downloading 'ERR754062'...
+2022-09-29T22:30:06 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-09-29T22:30:06 prefetch.3.0.0:  Downloading via HTTPS...
+2022-09-29T22:32:55 prefetch.3.0.0:  HTTPS download succeed
+2022-09-29T22:33:03 prefetch.3.0.0:  'ERR754062' is valid
+2022-09-29T22:33:03 prefetch.3.0.0: 1) 'ERR754062' was downloaded successfully
+2022-09-29T22:33:03 prefetch.3.0.0: 'SAMEA3245899' has 0 unresolved dependencies
+
+2022-09-29T22:33:03 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-09-29T22:33:04 prefetch.3.0.0: 1) Downloading 'ERR754079'...
+2022-09-29T22:33:04 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-09-29T22:33:04 prefetch.3.0.0:  Downloading via HTTPS...
+2022-09-29T22:35:00 prefetch.3.0.0:  HTTPS download succeed
+2022-09-29T22:35:08 prefetch.3.0.0:  'ERR754079' is valid
+2022-09-29T22:35:08 prefetch.3.0.0: 1) 'ERR754079' was downloaded successfully
+2022-09-29T22:35:08 prefetch.3.0.0: 'SAMEA3245898' has 0 unresolved dependencies
+
+2022-09-29T22:35:08 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-09-29T22:35:09 prefetch.3.0.0: 1) Downloading 'ERR754088'...
+2022-09-29T22:35:09 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-09-29T22:35:09 prefetch.3.0.0:  Downloading via HTTPS...
+2022-09-29T22:36:04 prefetch.3.0.0:  HTTPS download succeed
+2022-09-29T22:36:09 prefetch.3.0.0:  'ERR754088' is valid
+2022-09-29T22:36:09 prefetch.3.0.0: 1) 'ERR754088' was downloaded successfully
+2022-09-29T22:36:09 prefetch.3.0.0: 'SAMEA3245923' has 0 unresolved dependencies
+
+2022-09-29T22:36:10 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-09-29T22:36:10 prefetch.3.0.0: 1) Downloading 'ERR754054'...
+2022-09-29T22:36:10 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-09-29T22:36:10 prefetch.3.0.0:  Downloading via HTTPS...
+2022-09-29T22:37:15 prefetch.3.0.0:  HTTPS download succeed
+2022-09-29T22:37:20 prefetch.3.0.0:  'ERR754054' is valid
+2022-09-29T22:37:20 prefetch.3.0.0: 1) 'ERR754054' was downloaded successfully
+2022-09-29T22:37:20 prefetch.3.0.0: 'SAMEA3245914' has 0 unresolved dependencies
+Read 21407853 spots for ERR754054.sra
+Written 21407853 spots for ERR754054.sra
+mv: cannot create regular file ‘/SRAs’: Permission denied
+Read 30231191 spots for ERR754062.sra
+Written 30231191 spots for ERR754062.sra
+mv: cannot create regular file ‘/SRAs’: Permission denied
+Read 22843853 spots for ERR754067.sra
+Written 22843853 spots for ERR754067.sra
+mv: cannot create regular file ‘/SRAs’: Permission denied
+Read 27822650 spots for ERR754079.sra
+Written 27822650 spots for ERR754079.sra
+mv: cannot create regular file ‘/SRAs’: Permission denied
+Read 28366674 spots for ERR754080.sra
+Written 28366674 spots for ERR754080.sra
+mv: cannot create regular file ‘/SRAs’: Permission denied
+Read 18425743 spots for ERR754088.sra
+Written 18425743 spots for ERR754088.sra
+mv: cannot create regular file ‘/SRAs’: Permission denied
+Started analysis of ERR754054_1.fastq.gz
+Failed to process ERR754054.sra
+uk.ac.babraham.FastQC.Sequence.SequenceFormatException: ID line didn't start with '@'
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.readNext(FastQFile.java:158)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.<init>(FastQFile.java:89)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:106)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:62)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.processFile(OfflineRunner.java:159)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.<init>(OfflineRunner.java:121)
+	at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:316)
+Failed to process ERR754062.sra
+uk.ac.babraham.FastQC.Sequence.SequenceFormatException: ID line didn't start with '@'
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.readNext(FastQFile.java:158)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.<init>(FastQFile.java:89)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:106)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:62)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.processFile(OfflineRunner.java:159)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.<init>(OfflineRunner.java:121)
+	at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:316)
+Failed to process ERR754067.sra
+uk.ac.babraham.FastQC.Sequence.SequenceFormatException: ID line didn't start with '@'
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.readNext(FastQFile.java:158)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.<init>(FastQFile.java:89)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:106)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:62)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.processFile(OfflineRunner.java:159)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.<init>(OfflineRunner.java:121)
+	at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:316)
+Failed to process ERR754079.sra
+uk.ac.babraham.FastQC.Sequence.SequenceFormatException: ID line didn't start with '@'
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.readNext(FastQFile.java:158)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.<init>(FastQFile.java:89)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:106)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:62)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.processFile(OfflineRunner.java:159)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.<init>(OfflineRunner.java:121)
+	at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:316)
+Failed to process ERR754080.sra
+uk.ac.babraham.FastQC.Sequence.SequenceFormatException: ID line didn't start with '@'
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.readNext(FastQFile.java:158)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.<init>(FastQFile.java:89)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:106)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:62)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.processFile(OfflineRunner.java:159)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.<init>(OfflineRunner.java:121)
+	at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:316)
+Failed to process ERR754088.sra
+uk.ac.babraham.FastQC.Sequence.SequenceFormatException: ID line didn't start with '@'
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.readNext(FastQFile.java:158)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.<init>(FastQFile.java:89)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:106)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:62)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.processFile(OfflineRunner.java:159)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.<init>(OfflineRunner.java:121)
+	at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:316)
+Started analysis of ERR754054_2.fastq.gz
+Started analysis of ERR754062_1.fastq.gz
+Started analysis of ERR754062_2.fastq.gz
+Started analysis of ERR754067_1.fastq.gz
+Started analysis of ERR754067_2.fastq.gz
+Started analysis of ERR754079_1.fastq.gz
+Started analysis of ERR754079_2.fastq.gz
+Started analysis of ERR754080_1.fastq.gz
+Started analysis of ERR754080_2.fastq.gz
+Started analysis of ERR754088_1.fastq.gz
+Started analysis of ERR754088_2.fastq.gz
+Approx 5% complete for ERR754054_1.fastq.gz
+Approx 5% complete for ERR754054_2.fastq.gz
+Approx 5% complete for ERR754067_1.fastq.gz
+Approx 5% complete for ERR754067_2.fastq.gz
+Approx 5% complete for ERR754088_1.fastq.gz
+Approx 5% complete for ERR754062_1.fastq.gz
+Approx 5% complete for ERR754088_2.fastq.gz
+Approx 5% complete for ERR754062_2.fastq.gz
+Approx 5% complete for ERR754079_1.fastq.gz
+Approx 5% complete for ERR754079_2.fastq.gz
+Approx 5% complete for ERR754080_1.fastq.gz
+Approx 10% complete for ERR754054_1.fastq.gz
+Approx 5% complete for ERR754080_2.fastq.gz
+Approx 10% complete for ERR754054_2.fastq.gz
+Approx 10% complete for ERR754088_1.fastq.gz
+Approx 10% complete for ERR754088_2.fastq.gz
+Approx 10% complete for ERR754067_1.fastq.gz
+Approx 10% complete for ERR754067_2.fastq.gz
+Approx 15% complete for ERR754054_1.fastq.gz
+Approx 15% complete for ERR754054_2.fastq.gz
+Approx 10% complete for ERR754079_1.fastq.gz
+Approx 10% complete for ERR754062_2.fastq.gz
+Approx 10% complete for ERR754079_2.fastq.gz
+Approx 10% complete for ERR754062_1.fastq.gz
+Approx 10% complete for ERR754080_2.fastq.gz
+Approx 15% complete for ERR754088_2.fastq.gz
+Approx 15% complete for ERR754088_1.fastq.gz
+Approx 10% complete for ERR754080_1.fastq.gz
+Approx 15% complete for ERR754067_1.fastq.gz
+Approx 15% complete for ERR754067_2.fastq.gz
+Approx 20% complete for ERR754054_1.fastq.gz
+Approx 20% complete for ERR754054_2.fastq.gz
+Approx 20% complete for ERR754088_2.fastq.gz
+Approx 20% complete for ERR754088_1.fastq.gz
+Approx 15% complete for ERR754079_1.fastq.gz
+Approx 15% complete for ERR754079_2.fastq.gz
+Approx 15% complete for ERR754062_2.fastq.gz
+Approx 15% complete for ERR754062_1.fastq.gz
+Approx 15% complete for ERR754080_2.fastq.gz
+Approx 15% complete for ERR754080_1.fastq.gz
+Approx 20% complete for ERR754067_1.fastq.gz
+Approx 25% complete for ERR754054_1.fastq.gz
+Approx 25% complete for ERR754054_2.fastq.gz
+Approx 20% complete for ERR754067_2.fastq.gz
+Approx 25% complete for ERR754088_2.fastq.gz
+Approx 25% complete for ERR754088_1.fastq.gz
+Approx 20% complete for ERR754079_2.fastq.gz
+Approx 20% complete for ERR754079_1.fastq.gz
+Approx 30% complete for ERR754054_1.fastq.gz
+Approx 30% complete for ERR754054_2.fastq.gz
+Approx 20% complete for ERR754062_2.fastq.gz
+Approx 25% complete for ERR754067_1.fastq.gz
+Approx 30% complete for ERR754088_2.fastq.gz
+Approx 20% complete for ERR754080_2.fastq.gz
+Approx 20% complete for ERR754062_1.fastq.gz
+Approx 25% complete for ERR754067_2.fastq.gz
+Approx 30% complete for ERR754088_1.fastq.gz
+Approx 20% complete for ERR754080_1.fastq.gz
+Approx 35% complete for ERR754054_1.fastq.gz
+Approx 35% complete for ERR754054_2.fastq.gz
+Approx 35% complete for ERR754088_2.fastq.gz
+Approx 35% complete for ERR754088_1.fastq.gz
+Approx 30% complete for ERR754067_1.fastq.gz
+Approx 25% complete for ERR754079_2.fastq.gz
+Approx 25% complete for ERR754079_1.fastq.gz
+Approx 30% complete for ERR754067_2.fastq.gz
+Approx 25% complete for ERR754062_2.fastq.gz
+Approx 25% complete for ERR754080_2.fastq.gz
+Approx 25% complete for ERR754062_1.fastq.gz
+Approx 25% complete for ERR754080_1.fastq.gz
+Approx 40% complete for ERR754088_2.fastq.gz
+Approx 40% complete for ERR754054_1.fastq.gz
+Approx 40% complete for ERR754054_2.fastq.gz
+Approx 40% complete for ERR754088_1.fastq.gz
+Approx 35% complete for ERR754067_1.fastq.gz
+Approx 35% complete for ERR754067_2.fastq.gz
+Approx 30% complete for ERR754079_2.fastq.gz
+Approx 30% complete for ERR754079_1.fastq.gz
+Approx 45% complete for ERR754088_2.fastq.gz
+Approx 45% complete for ERR754054_1.fastq.gz
+Approx 45% complete for ERR754054_2.fastq.gz
+Approx 30% complete for ERR754080_2.fastq.gz
+Approx 30% complete for ERR754062_2.fastq.gz
+Approx 45% complete for ERR754088_1.fastq.gz
+Approx 30% complete for ERR754080_1.fastq.gz
+Approx 30% complete for ERR754062_1.fastq.gz
+Approx 40% complete for ERR754067_1.fastq.gz
+Approx 50% complete for ERR754088_2.fastq.gz
+Approx 40% complete for ERR754067_2.fastq.gz
+Approx 50% complete for ERR754054_1.fastq.gz
+Approx 50% complete for ERR754054_2.fastq.gz
+Approx 50% complete for ERR754088_1.fastq.gz
+Approx 35% complete for ERR754079_2.fastq.gz
+Approx 35% complete for ERR754079_1.fastq.gz
+Approx 35% complete for ERR754080_2.fastq.gz
+Approx 35% complete for ERR754062_2.fastq.gz
+Approx 55% complete for ERR754088_2.fastq.gz
+Approx 45% complete for ERR754067_1.fastq.gz
+Approx 35% complete for ERR754080_1.fastq.gz
+Approx 35% complete for ERR754062_1.fastq.gz
+Approx 45% complete for ERR754067_2.fastq.gz
+Approx 55% complete for ERR754054_1.fastq.gz
+Approx 55% complete for ERR754054_2.fastq.gz
+Approx 55% complete for ERR754088_1.fastq.gz
+Approx 40% complete for ERR754079_2.fastq.gz
+Approx 40% complete for ERR754079_1.fastq.gz
+Approx 60% complete for ERR754088_2.fastq.gz
+Approx 40% complete for ERR754080_2.fastq.gz
+Approx 50% complete for ERR754067_1.fastq.gz
+Approx 60% complete for ERR754088_1.fastq.gz
+Approx 60% complete for ERR754054_1.fastq.gz
+Approx 60% complete for ERR754054_2.fastq.gz
+Approx 40% complete for ERR754062_2.fastq.gz
+Approx 50% complete for ERR754067_2.fastq.gz
+Approx 40% complete for ERR754080_1.fastq.gz
+Approx 40% complete for ERR754062_1.fastq.gz
+Approx 65% complete for ERR754088_2.fastq.gz
+Approx 45% complete for ERR754079_2.fastq.gz
+Approx 65% complete for ERR754088_1.fastq.gz
+Approx 45% complete for ERR754079_1.fastq.gz
+Approx 65% complete for ERR754054_1.fastq.gz
+Approx 65% complete for ERR754054_2.fastq.gz
+Approx 55% complete for ERR754067_1.fastq.gz
+Approx 45% complete for ERR754080_2.fastq.gz
+Approx 55% complete for ERR754067_2.fastq.gz
+Approx 70% complete for ERR754088_2.fastq.gz
+Approx 45% complete for ERR754062_2.fastq.gz
+Approx 45% complete for ERR754080_1.fastq.gz
+Approx 70% complete for ERR754088_1.fastq.gz
+Approx 45% complete for ERR754062_1.fastq.gz
+Approx 70% complete for ERR754054_1.fastq.gz
+Approx 70% complete for ERR754054_2.fastq.gz
+Approx 50% complete for ERR754079_2.fastq.gz
+Approx 60% complete for ERR754067_1.fastq.gz
+Approx 75% complete for ERR754088_2.fastq.gz
+Approx 50% complete for ERR754079_1.fastq.gz
+Approx 60% complete for ERR754067_2.fastq.gz
+Approx 50% complete for ERR754080_2.fastq.gz
+Approx 75% complete for ERR754088_1.fastq.gz
+Approx 75% complete for ERR754054_1.fastq.gz
+Approx 75% complete for ERR754054_2.fastq.gz
+Approx 50% complete for ERR754062_2.fastq.gz
+Approx 50% complete for ERR754080_1.fastq.gz
+Approx 80% complete for ERR754088_2.fastq.gz
+Approx 65% complete for ERR754067_1.fastq.gz
+Approx 50% complete for ERR754062_1.fastq.gz
+Approx 55% complete for ERR754079_2.fastq.gz
+Approx 65% complete for ERR754067_2.fastq.gz
+Approx 80% complete for ERR754088_1.fastq.gz
+Approx 55% complete for ERR754079_1.fastq.gz
+Approx 80% complete for ERR754054_1.fastq.gz
+Approx 80% complete for ERR754054_2.fastq.gz
+Approx 55% complete for ERR754080_2.fastq.gz
+Approx 85% complete for ERR754088_2.fastq.gz
+Approx 55% complete for ERR754062_2.fastq.gz
+Approx 85% complete for ERR754088_1.fastq.gz
+Approx 70% complete for ERR754067_1.fastq.gz
+Approx 55% complete for ERR754080_1.fastq.gz
+Approx 70% complete for ERR754067_2.fastq.gz
+Approx 60% complete for ERR754079_2.fastq.gz
+Approx 85% complete for ERR754054_1.fastq.gz
+Approx 85% complete for ERR754054_2.fastq.gz
+Approx 55% complete for ERR754062_1.fastq.gz
+Approx 90% complete for ERR754088_2.fastq.gz
+Approx 60% complete for ERR754079_1.fastq.gz
+Approx 60% complete for ERR754080_2.fastq.gz
+Approx 90% complete for ERR754088_1.fastq.gz
+Approx 75% complete for ERR754067_1.fastq.gz
+Approx 95% complete for ERR754088_2.fastq.gz
+Approx 60% complete for ERR754062_2.fastq.gz
+Approx 90% complete for ERR754054_1.fastq.gz
+Approx 90% complete for ERR754054_2.fastq.gz
+Approx 75% complete for ERR754067_2.fastq.gz
+Approx 60% complete for ERR754080_1.fastq.gz
+Approx 65% complete for ERR754079_2.fastq.gz
+Approx 60% complete for ERR754062_1.fastq.gz
+Approx 95% complete for ERR754088_1.fastq.gz
+Approx 65% complete for ERR754079_1.fastq.gz
+Analysis complete for ERR754088_2.fastq.gz
+Approx 95% complete for ERR754054_1.fastq.gz
+Approx 95% complete for ERR754054_2.fastq.gz
+Approx 65% complete for ERR754080_2.fastq.gz
+Approx 80% complete for ERR754067_1.fastq.gz
+Approx 80% complete for ERR754067_2.fastq.gz
+Approx 65% complete for ERR754062_2.fastq.gz
+Analysis complete for ERR754088_1.fastq.gz
+Approx 70% complete for ERR754079_2.fastq.gz
+Approx 65% complete for ERR754080_1.fastq.gz
+Analysis complete for ERR754054_1.fastq.gz
+Analysis complete for ERR754054_2.fastq.gz
+Approx 70% complete for ERR754079_1.fastq.gz
+Approx 85% complete for ERR754067_1.fastq.gz
+Approx 65% complete for ERR754062_1.fastq.gz
+Approx 70% complete for ERR754080_2.fastq.gz
+Approx 85% complete for ERR754067_2.fastq.gz
+Approx 75% complete for ERR754079_2.fastq.gz
+Approx 70% complete for ERR754062_2.fastq.gz
+Approx 70% complete for ERR754080_1.fastq.gz
+Approx 75% complete for ERR754079_1.fastq.gz
+Approx 90% complete for ERR754067_1.fastq.gz
+Approx 90% complete for ERR754067_2.fastq.gz
+Approx 75% complete for ERR754080_2.fastq.gz
+Approx 70% complete for ERR754062_1.fastq.gz
+Approx 80% complete for ERR754079_2.fastq.gz
+Approx 95% complete for ERR754067_1.fastq.gz
+Approx 75% complete for ERR754062_2.fastq.gz
+Approx 75% complete for ERR754080_1.fastq.gz
+Approx 80% complete for ERR754079_1.fastq.gz
+Approx 95% complete for ERR754067_2.fastq.gz
+Approx 80% complete for ERR754080_2.fastq.gz
+Approx 75% complete for ERR754062_1.fastq.gz
+Analysis complete for ERR754067_1.fastq.gz
+Approx 85% complete for ERR754079_2.fastq.gz
+Analysis complete for ERR754067_2.fastq.gz
+Approx 80% complete for ERR754062_2.fastq.gz
+Approx 80% complete for ERR754080_1.fastq.gz
+Approx 85% complete for ERR754079_1.fastq.gz
+Approx 85% complete for ERR754080_2.fastq.gz
+Approx 80% complete for ERR754062_1.fastq.gz
+Approx 90% complete for ERR754079_2.fastq.gz
+Approx 85% complete for ERR754080_1.fastq.gz
+Approx 90% complete for ERR754079_1.fastq.gz
+Approx 85% complete for ERR754062_2.fastq.gz
+Approx 90% complete for ERR754080_2.fastq.gz
+Approx 85% complete for ERR754062_1.fastq.gz
+Approx 95% complete for ERR754079_2.fastq.gz
+Approx 95% complete for ERR754079_1.fastq.gz
+Approx 90% complete for ERR754080_1.fastq.gz
+Approx 90% complete for ERR754062_2.fastq.gz
+Approx 95% complete for ERR754080_2.fastq.gz
+Approx 90% complete for ERR754062_1.fastq.gz
+Analysis complete for ERR754079_2.fastq.gz
+Analysis complete for ERR754079_1.fastq.gz
+Approx 95% complete for ERR754080_1.fastq.gz
+Analysis complete for ERR754080_2.fastq.gz
+Approx 95% complete for ERR754062_2.fastq.gz
+Approx 95% complete for ERR754062_1.fastq.gz
+Analysis complete for ERR754080_1.fastq.gz
+Analysis complete for ERR754062_2.fastq.gz
+Analysis complete for ERR754062_1.fastq.gz
+done
