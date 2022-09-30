@@ -4,6 +4,6 @@ After downloading the full contingent of SRA files needed, I continued running i
 
 While a hassle, the repeated expeiance got me very familair with the process, and frustrated enough that by the end of it, I have now written a script than puts together every step from prefetch to fastqc, which worked, and heavily draws upon the basic loop example script provided.
 
-The script is titled rnfastqc.sh, and is contained in my Lab2 folder along with this methods document.
+The script is titled rnfast_qc.sh, and is contained in my Lab2 folder along with this methods document.
 
 
