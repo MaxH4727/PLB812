@@ -1,0 +1,577 @@
+TrimmomaticPE: Started with arguments:
+ -phred33 -threads 6 ERR754054_1.fastq.gz ERR754054_2.fastq.gz ERR754054_1_paired_output ERR754054_1_unpaired_output ERR754054_2_paired_output ERR754054_2_unpaired_output ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa:2:30:10 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 21407853 Both Surviving: 13750575 (64.23%) Forward Only Surviving: 2108858 (9.85%) Reverse Only Surviving: 127217 (0.59%) Dropped: 5421203 (25.32%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 -threads 6 ERR754062_1.fastq.gz ERR754062_2.fastq.gz ERR754062_1_paired_output ERR754062_1_unpaired_output ERR754062_2_paired_output ERR754062_2_unpaired_output ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa:2:30:10 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 30231191 Both Surviving: 27643921 (91.44%) Forward Only Surviving: 2065503 (6.83%) Reverse Only Surviving: 277485 (0.92%) Dropped: 244282 (0.81%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 -threads 6 ERR754067_1.fastq.gz ERR754067_2.fastq.gz ERR754067_1_paired_output ERR754067_1_unpaired_output ERR754067_2_paired_output ERR754067_2_unpaired_output ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa:2:30:10 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 22843853 Both Surviving: 20659935 (90.44%) Forward Only Surviving: 1730848 (7.58%) Reverse Only Surviving: 176222 (0.77%) Dropped: 276848 (1.21%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 -threads 6 ERR754079_1.fastq.gz ERR754079_2.fastq.gz ERR754079_1_paired_output ERR754079_1_unpaired_output ERR754079_2_paired_output ERR754079_2_unpaired_output ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa:2:30:10 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 27822650 Both Surviving: 25348669 (91.11%) Forward Only Surviving: 1916966 (6.89%) Reverse Only Surviving: 284791 (1.02%) Dropped: 272224 (0.98%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 -threads 6 ERR754080_1.fastq.gz ERR754080_2.fastq.gz ERR754080_1_paired_output ERR754080_1_unpaired_output ERR754080_2_paired_output ERR754080_2_unpaired_output ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa:2:30:10 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 28366674 Both Surviving: 25629587 (90.35%) Forward Only Surviving: 1947617 (6.87%) Reverse Only Surviving: 172254 (0.61%) Dropped: 617216 (2.18%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 -threads 6 ERR754088_1.fastq.gz ERR754088_2.fastq.gz ERR754088_1_paired_output ERR754088_1_unpaired_output ERR754088_2_paired_output ERR754088_2_unpaired_output ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa:2:30:10 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 18425743 Both Surviving: 16355836 (88.77%) Forward Only Surviving: 1446577 (7.85%) Reverse Only Surviving: 107694 (0.58%) Dropped: 515636 (2.80%)
+TrimmomaticPE: Completed successfully
+Started analysis of ERR754054_1_paired_output
+Started analysis of ERR754054_1_unpaired_output
+Approx 5% complete for ERR754054_1_unpaired_output
+Started analysis of ERR754054_2_paired_output
+Approx 10% complete for ERR754054_1_unpaired_output
+Started analysis of ERR754054_2_unpaired_output
+Approx 5% complete for ERR754054_2_unpaired_output
+Approx 10% complete for ERR754054_2_unpaired_output
+Approx 15% complete for ERR754054_2_unpaired_output
+Approx 20% complete for ERR754054_2_unpaired_output
+Approx 25% complete for ERR754054_2_unpaired_output
+Approx 30% complete for ERR754054_2_unpaired_output
+Approx 35% complete for ERR754054_2_unpaired_output
+Approx 40% complete for ERR754054_2_unpaired_output
+Approx 45% complete for ERR754054_2_unpaired_output
+Started analysis of ERR754062_1_paired_output
+Approx 50% complete for ERR754054_2_unpaired_output
+Approx 55% complete for ERR754054_2_unpaired_output
+Approx 15% complete for ERR754054_1_unpaired_output
+Approx 60% complete for ERR754054_2_unpaired_output
+Approx 65% complete for ERR754054_2_unpaired_output
+Approx 70% complete for ERR754054_2_unpaired_output
+Approx 75% complete for ERR754054_2_unpaired_output
+Approx 80% complete for ERR754054_2_unpaired_output
+Approx 85% complete for ERR754054_2_unpaired_output
+Approx 90% complete for ERR754054_2_unpaired_output
+Started analysis of ERR754062_1_unpaired_output
+Approx 95% complete for ERR754054_2_unpaired_output
+Analysis complete for ERR754054_2_unpaired_output
+Approx 20% complete for ERR754054_1_unpaired_output
+Approx 25% complete for ERR754054_1_unpaired_output
+Approx 5% complete for ERR754062_1_unpaired_output
+Approx 30% complete for ERR754054_1_unpaired_output
+Approx 10% complete for ERR754062_1_unpaired_output
+Approx 35% complete for ERR754054_1_unpaired_output
+Approx 15% complete for ERR754062_1_unpaired_output
+Approx 40% complete for ERR754054_1_unpaired_output
+Approx 5% complete for ERR754054_1_paired_output
+Approx 20% complete for ERR754062_1_unpaired_output
+Approx 45% complete for ERR754054_1_unpaired_output
+Started analysis of ERR754062_2_paired_output
+Approx 25% complete for ERR754062_1_unpaired_output
+Approx 50% complete for ERR754054_1_unpaired_output
+Approx 5% complete for ERR754054_2_paired_output
+Approx 55% complete for ERR754054_1_unpaired_output
+Approx 30% complete for ERR754062_1_unpaired_output
+Approx 60% complete for ERR754054_1_unpaired_output
+Approx 35% complete for ERR754062_1_unpaired_output
+Approx 65% complete for ERR754054_1_unpaired_output
+Approx 40% complete for ERR754062_1_unpaired_output
+Approx 70% complete for ERR754054_1_unpaired_output
+Approx 45% complete for ERR754062_1_unpaired_output
+Approx 75% complete for ERR754054_1_unpaired_output
+Approx 50% complete for ERR754062_1_unpaired_output
+Approx 80% complete for ERR754054_1_unpaired_output
+Approx 85% complete for ERR754054_1_unpaired_output
+Approx 10% complete for ERR754054_1_paired_output
+Approx 55% complete for ERR754062_1_unpaired_output
+Approx 90% complete for ERR754054_1_unpaired_output
+Approx 60% complete for ERR754062_1_unpaired_output
+Approx 95% complete for ERR754054_1_unpaired_output
+Approx 10% complete for ERR754054_2_paired_output
+Approx 65% complete for ERR754062_1_unpaired_output
+Analysis complete for ERR754054_1_unpaired_output
+Approx 70% complete for ERR754062_1_unpaired_output
+Approx 5% complete for ERR754062_1_paired_output
+Approx 75% complete for ERR754062_1_unpaired_output
+Approx 80% complete for ERR754062_1_unpaired_output
+Started analysis of ERR754062_2_unpaired_output
+Approx 5% complete for ERR754062_2_unpaired_output
+Approx 10% complete for ERR754062_2_unpaired_output
+Approx 15% complete for ERR754062_2_unpaired_output
+Approx 85% complete for ERR754062_1_unpaired_output
+Approx 20% complete for ERR754062_2_unpaired_output
+Approx 25% complete for ERR754062_2_unpaired_output
+Approx 30% complete for ERR754062_2_unpaired_output
+Approx 35% complete for ERR754062_2_unpaired_output
+Approx 40% complete for ERR754062_2_unpaired_output
+Approx 45% complete for ERR754062_2_unpaired_output
+Approx 90% complete for ERR754062_1_unpaired_output
+Approx 50% complete for ERR754062_2_unpaired_output
+Approx 15% complete for ERR754054_1_paired_output
+Approx 55% complete for ERR754062_2_unpaired_output
+Approx 60% complete for ERR754062_2_unpaired_output
+Approx 65% complete for ERR754062_2_unpaired_output
+Approx 70% complete for ERR754062_2_unpaired_output
+Approx 75% complete for ERR754062_2_unpaired_output
+Approx 95% complete for ERR754062_1_unpaired_output
+Approx 80% complete for ERR754062_2_unpaired_output
+Approx 85% complete for ERR754062_2_unpaired_output
+Approx 90% complete for ERR754062_2_unpaired_output
+Approx 95% complete for ERR754062_2_unpaired_output
+Approx 5% complete for ERR754062_2_paired_output
+Analysis complete for ERR754062_2_unpaired_output
+Analysis complete for ERR754062_1_unpaired_output
+Approx 15% complete for ERR754054_2_paired_output
+Started analysis of ERR754067_1_paired_output
+Started analysis of ERR754067_1_unpaired_output
+Approx 5% complete for ERR754067_1_unpaired_output
+Approx 10% complete for ERR754067_1_unpaired_output
+Approx 15% complete for ERR754067_1_unpaired_output
+Approx 20% complete for ERR754054_1_paired_output
+Approx 20% complete for ERR754067_1_unpaired_output
+Approx 25% complete for ERR754067_1_unpaired_output
+Approx 20% complete for ERR754054_2_paired_output
+Approx 30% complete for ERR754067_1_unpaired_output
+Approx 35% complete for ERR754067_1_unpaired_output
+Approx 40% complete for ERR754067_1_unpaired_output
+Approx 10% complete for ERR754062_1_paired_output
+Approx 45% complete for ERR754067_1_unpaired_output
+Approx 50% complete for ERR754067_1_unpaired_output
+Approx 55% complete for ERR754067_1_unpaired_output
+Approx 60% complete for ERR754067_1_unpaired_output
+Approx 25% complete for ERR754054_1_paired_output
+Approx 65% complete for ERR754067_1_unpaired_output
+Approx 5% complete for ERR754067_1_paired_output
+Approx 70% complete for ERR754067_1_unpaired_output
+Approx 10% complete for ERR754062_2_paired_output
+Approx 75% complete for ERR754067_1_unpaired_output
+Approx 25% complete for ERR754054_2_paired_output
+Approx 80% complete for ERR754067_1_unpaired_output
+Approx 85% complete for ERR754067_1_unpaired_output
+Approx 90% complete for ERR754067_1_unpaired_output
+Approx 95% complete for ERR754067_1_unpaired_output
+Analysis complete for ERR754067_1_unpaired_output
+Approx 30% complete for ERR754054_1_paired_output
+Started analysis of ERR754067_2_paired_output
+Approx 30% complete for ERR754054_2_paired_output
+Approx 10% complete for ERR754067_1_paired_output
+Approx 15% complete for ERR754062_1_paired_output
+Approx 35% complete for ERR754054_1_paired_output
+Approx 15% complete for ERR754062_2_paired_output
+Approx 35% complete for ERR754054_2_paired_output
+Approx 5% complete for ERR754067_2_paired_output
+Approx 40% complete for ERR754054_1_paired_output
+Approx 15% complete for ERR754067_1_paired_output
+Approx 40% complete for ERR754054_2_paired_output
+Approx 20% complete for ERR754062_1_paired_output
+Approx 45% complete for ERR754054_1_paired_output
+Approx 10% complete for ERR754067_2_paired_output
+Approx 20% complete for ERR754062_2_paired_output
+Approx 45% complete for ERR754054_2_paired_output
+Approx 20% complete for ERR754067_1_paired_output
+Approx 50% complete for ERR754054_1_paired_output
+Approx 50% complete for ERR754054_2_paired_output
+Approx 15% complete for ERR754067_2_paired_output
+Approx 25% complete for ERR754062_1_paired_output
+Approx 55% complete for ERR754054_1_paired_output
+Approx 25% complete for ERR754067_1_paired_output
+Approx 25% complete for ERR754062_2_paired_output
+Approx 55% complete for ERR754054_2_paired_output
+Approx 60% complete for ERR754054_1_paired_output
+Approx 20% complete for ERR754067_2_paired_output
+Approx 60% complete for ERR754054_2_paired_output
+Approx 30% complete for ERR754067_1_paired_output
+Approx 30% complete for ERR754062_1_paired_output
+Approx 65% complete for ERR754054_1_paired_output
+Approx 30% complete for ERR754062_2_paired_output
+Approx 65% complete for ERR754054_2_paired_output
+Approx 25% complete for ERR754067_2_paired_output
+Approx 70% complete for ERR754054_1_paired_output
+Approx 35% complete for ERR754067_1_paired_output
+Approx 70% complete for ERR754054_2_paired_output
+Approx 35% complete for ERR754062_1_paired_output
+Approx 75% complete for ERR754054_1_paired_output
+Approx 30% complete for ERR754067_2_paired_output
+Approx 35% complete for ERR754062_2_paired_output
+Approx 75% complete for ERR754054_2_paired_output
+Approx 40% complete for ERR754067_1_paired_output
+Approx 80% complete for ERR754054_1_paired_output
+Approx 80% complete for ERR754054_2_paired_output
+Approx 35% complete for ERR754067_2_paired_output
+Approx 85% complete for ERR754054_1_paired_output
+Approx 40% complete for ERR754062_1_paired_output
+Approx 45% complete for ERR754067_1_paired_output
+Approx 40% complete for ERR754062_2_paired_output
+Approx 85% complete for ERR754054_2_paired_output
+Approx 90% complete for ERR754054_1_paired_output
+Approx 40% complete for ERR754067_2_paired_output
+Approx 90% complete for ERR754054_2_paired_output
+Approx 50% complete for ERR754067_1_paired_output
+Approx 95% complete for ERR754054_1_paired_output
+Approx 45% complete for ERR754062_1_paired_output
+Approx 45% complete for ERR754062_2_paired_output
+Approx 95% complete for ERR754054_2_paired_output
+Approx 45% complete for ERR754067_2_paired_output
+Analysis complete for ERR754054_1_paired_output
+Approx 55% complete for ERR754067_1_paired_output
+Analysis complete for ERR754054_2_paired_output
+Started analysis of ERR754067_2_unpaired_output
+Approx 5% complete for ERR754067_2_unpaired_output
+Approx 10% complete for ERR754067_2_unpaired_output
+Approx 15% complete for ERR754067_2_unpaired_output
+Approx 20% complete for ERR754067_2_unpaired_output
+Approx 25% complete for ERR754067_2_unpaired_output
+Approx 30% complete for ERR754067_2_unpaired_output
+Approx 35% complete for ERR754067_2_unpaired_output
+Approx 40% complete for ERR754067_2_unpaired_output
+Approx 45% complete for ERR754067_2_unpaired_output
+Approx 50% complete for ERR754067_2_unpaired_output
+Approx 55% complete for ERR754067_2_unpaired_output
+Approx 60% complete for ERR754067_2_unpaired_output
+Approx 65% complete for ERR754067_2_unpaired_output
+Approx 70% complete for ERR754067_2_unpaired_output
+Approx 75% complete for ERR754067_2_unpaired_output
+Approx 80% complete for ERR754067_2_unpaired_output
+Approx 85% complete for ERR754067_2_unpaired_output
+Approx 90% complete for ERR754067_2_unpaired_output
+Approx 95% complete for ERR754067_2_unpaired_output
+Analysis complete for ERR754067_2_unpaired_output
+Started analysis of ERR754079_1_paired_output
+Started analysis of ERR754079_1_unpaired_output
+Approx 50% complete for ERR754062_1_paired_output
+Approx 5% complete for ERR754079_1_unpaired_output
+Approx 50% complete for ERR754062_2_paired_output
+Approx 50% complete for ERR754067_2_paired_output
+Approx 10% complete for ERR754079_1_unpaired_output
+Approx 15% complete for ERR754079_1_unpaired_output
+Approx 60% complete for ERR754067_1_paired_output
+Approx 20% complete for ERR754079_1_unpaired_output
+Approx 25% complete for ERR754079_1_unpaired_output
+Approx 30% complete for ERR754079_1_unpaired_output
+Approx 35% complete for ERR754079_1_unpaired_output
+Approx 40% complete for ERR754079_1_unpaired_output
+Approx 45% complete for ERR754079_1_unpaired_output
+Approx 50% complete for ERR754079_1_unpaired_output
+Approx 55% complete for ERR754079_1_unpaired_output
+Approx 60% complete for ERR754079_1_unpaired_output
+Approx 65% complete for ERR754079_1_unpaired_output
+Approx 5% complete for ERR754079_1_paired_output
+Approx 55% complete for ERR754067_2_paired_output
+Approx 70% complete for ERR754079_1_unpaired_output
+Approx 75% complete for ERR754079_1_unpaired_output
+Approx 65% complete for ERR754067_1_paired_output
+Approx 80% complete for ERR754079_1_unpaired_output
+Approx 55% complete for ERR754062_1_paired_output
+Approx 55% complete for ERR754062_2_paired_output
+Approx 85% complete for ERR754079_1_unpaired_output
+Approx 90% complete for ERR754079_1_unpaired_output
+Approx 95% complete for ERR754079_1_unpaired_output
+Analysis complete for ERR754079_1_unpaired_output
+Started analysis of ERR754079_2_paired_output
+Approx 60% complete for ERR754067_2_paired_output
+Approx 70% complete for ERR754067_1_paired_output
+Approx 10% complete for ERR754079_1_paired_output
+Approx 60% complete for ERR754062_2_paired_output
+Approx 60% complete for ERR754062_1_paired_output
+Approx 5% complete for ERR754079_2_paired_output
+Approx 65% complete for ERR754067_2_paired_output
+Approx 75% complete for ERR754067_1_paired_output
+Approx 15% complete for ERR754079_1_paired_output
+Approx 65% complete for ERR754062_2_paired_output
+Approx 65% complete for ERR754062_1_paired_output
+Approx 70% complete for ERR754067_2_paired_output
+Approx 80% complete for ERR754067_1_paired_output
+Approx 10% complete for ERR754079_2_paired_output
+Approx 20% complete for ERR754079_1_paired_output
+Approx 75% complete for ERR754067_2_paired_output
+Approx 85% complete for ERR754067_1_paired_output
+Approx 70% complete for ERR754062_2_paired_output
+Approx 70% complete for ERR754062_1_paired_output
+Approx 15% complete for ERR754079_2_paired_output
+Approx 80% complete for ERR754067_2_paired_output
+Approx 25% complete for ERR754079_1_paired_output
+Approx 90% complete for ERR754067_1_paired_output
+Approx 75% complete for ERR754062_2_paired_output
+Approx 20% complete for ERR754079_2_paired_output
+Approx 75% complete for ERR754062_1_paired_output
+Approx 85% complete for ERR754067_2_paired_output
+Approx 95% complete for ERR754067_1_paired_output
+Approx 30% complete for ERR754079_1_paired_output
+Approx 25% complete for ERR754079_2_paired_output
+Approx 80% complete for ERR754062_2_paired_output
+Approx 90% complete for ERR754067_2_paired_output
+Approx 80% complete for ERR754062_1_paired_output
+Analysis complete for ERR754067_1_paired_output
+Started analysis of ERR754079_2_unpaired_output
+Approx 5% complete for ERR754079_2_unpaired_output
+Approx 10% complete for ERR754079_2_unpaired_output
+Approx 15% complete for ERR754079_2_unpaired_output
+Approx 35% complete for ERR754079_1_paired_output
+Approx 20% complete for ERR754079_2_unpaired_output
+Approx 25% complete for ERR754079_2_unpaired_output
+Approx 30% complete for ERR754079_2_unpaired_output
+Approx 35% complete for ERR754079_2_unpaired_output
+Approx 40% complete for ERR754079_2_unpaired_output
+Approx 45% complete for ERR754079_2_unpaired_output
+Approx 50% complete for ERR754079_2_unpaired_output
+Approx 55% complete for ERR754079_2_unpaired_output
+Approx 60% complete for ERR754079_2_unpaired_output
+Approx 65% complete for ERR754079_2_unpaired_output
+Approx 70% complete for ERR754079_2_unpaired_output
+Approx 75% complete for ERR754079_2_unpaired_output
+Approx 80% complete for ERR754079_2_unpaired_output
+Approx 85% complete for ERR754079_2_unpaired_output
+Approx 90% complete for ERR754079_2_unpaired_output
+Approx 95% complete for ERR754079_2_unpaired_output
+Analysis complete for ERR754079_2_unpaired_output
+Started analysis of ERR754080_1_paired_output
+Approx 95% complete for ERR754067_2_paired_output
+Approx 30% complete for ERR754079_2_paired_output
+Approx 85% complete for ERR754062_2_paired_output
+Approx 85% complete for ERR754062_1_paired_output
+Approx 40% complete for ERR754079_1_paired_output
+Analysis complete for ERR754067_2_paired_output
+Approx 5% complete for ERR754080_1_paired_output
+Approx 35% complete for ERR754079_2_paired_output
+Started analysis of ERR754080_1_unpaired_output
+Approx 5% complete for ERR754080_1_unpaired_output
+Approx 90% complete for ERR754062_2_paired_output
+Approx 10% complete for ERR754080_1_unpaired_output
+Approx 15% complete for ERR754080_1_unpaired_output
+Approx 20% complete for ERR754080_1_unpaired_output
+Approx 90% complete for ERR754062_1_paired_output
+Approx 25% complete for ERR754080_1_unpaired_output
+Approx 30% complete for ERR754080_1_unpaired_output
+Approx 35% complete for ERR754080_1_unpaired_output
+Approx 40% complete for ERR754080_1_unpaired_output
+Approx 45% complete for ERR754079_1_paired_output
+Approx 45% complete for ERR754080_1_unpaired_output
+Approx 50% complete for ERR754080_1_unpaired_output
+Approx 55% complete for ERR754080_1_unpaired_output
+Approx 60% complete for ERR754080_1_unpaired_output
+Approx 65% complete for ERR754080_1_unpaired_output
+Approx 70% complete for ERR754080_1_unpaired_output
+Approx 40% complete for ERR754079_2_paired_output
+Approx 10% complete for ERR754080_1_paired_output
+Approx 75% complete for ERR754080_1_unpaired_output
+Approx 80% complete for ERR754080_1_unpaired_output
+Approx 85% complete for ERR754080_1_unpaired_output
+Approx 90% complete for ERR754080_1_unpaired_output
+Approx 95% complete for ERR754062_2_paired_output
+Approx 95% complete for ERR754080_1_unpaired_output
+Analysis complete for ERR754080_1_unpaired_output
+Approx 95% complete for ERR754062_1_paired_output
+Started analysis of ERR754080_2_paired_output
+Approx 50% complete for ERR754079_1_paired_output
+Approx 45% complete for ERR754079_2_paired_output
+Approx 15% complete for ERR754080_1_paired_output
+Analysis complete for ERR754062_2_paired_output
+Approx 5% complete for ERR754080_2_paired_output
+Analysis complete for ERR754062_1_paired_output
+Approx 55% complete for ERR754079_1_paired_output
+Started analysis of ERR754080_2_unpaired_output
+Approx 5% complete for ERR754080_2_unpaired_output
+Approx 10% complete for ERR754080_2_unpaired_output
+Approx 15% complete for ERR754080_2_unpaired_output
+Approx 20% complete for ERR754080_2_unpaired_output
+Approx 25% complete for ERR754080_2_unpaired_output
+Approx 30% complete for ERR754080_2_unpaired_output
+Approx 35% complete for ERR754080_2_unpaired_output
+Approx 40% complete for ERR754080_2_unpaired_output
+Approx 45% complete for ERR754080_2_unpaired_output
+Approx 50% complete for ERR754080_2_unpaired_output
+Approx 55% complete for ERR754080_2_unpaired_output
+Approx 60% complete for ERR754080_2_unpaired_output
+Approx 65% complete for ERR754080_2_unpaired_output
+Approx 70% complete for ERR754080_2_unpaired_output
+Approx 75% complete for ERR754080_2_unpaired_output
+Approx 80% complete for ERR754080_2_unpaired_output
+Approx 50% complete for ERR754079_2_paired_output
+Approx 85% complete for ERR754080_2_unpaired_output
+Approx 90% complete for ERR754080_2_unpaired_output
+Approx 95% complete for ERR754080_2_unpaired_output
+Analysis complete for ERR754080_2_unpaired_output
+Approx 20% complete for ERR754080_1_paired_output
+Started analysis of ERR754088_1_paired_output
+Started analysis of ERR754088_1_unpaired_output
+Approx 5% complete for ERR754088_1_unpaired_output
+Approx 10% complete for ERR754088_1_unpaired_output
+Approx 15% complete for ERR754088_1_unpaired_output
+Approx 20% complete for ERR754088_1_unpaired_output
+Approx 25% complete for ERR754088_1_unpaired_output
+Approx 30% complete for ERR754088_1_unpaired_output
+Approx 35% complete for ERR754088_1_unpaired_output
+Approx 40% complete for ERR754088_1_unpaired_output
+Approx 10% complete for ERR754080_2_paired_output
+Approx 45% complete for ERR754088_1_unpaired_output
+Approx 60% complete for ERR754079_1_paired_output
+Approx 50% complete for ERR754088_1_unpaired_output
+Approx 55% complete for ERR754088_1_unpaired_output
+Approx 60% complete for ERR754088_1_unpaired_output
+Approx 5% complete for ERR754088_1_paired_output
+Approx 65% complete for ERR754088_1_unpaired_output
+Approx 70% complete for ERR754088_1_unpaired_output
+Approx 75% complete for ERR754088_1_unpaired_output
+Approx 55% complete for ERR754079_2_paired_output
+Approx 80% complete for ERR754088_1_unpaired_output
+Approx 85% complete for ERR754088_1_unpaired_output
+Approx 90% complete for ERR754088_1_unpaired_output
+Approx 25% complete for ERR754080_1_paired_output
+Approx 95% complete for ERR754088_1_unpaired_output
+Analysis complete for ERR754088_1_unpaired_output
+Started analysis of ERR754088_2_paired_output
+Approx 10% complete for ERR754088_1_paired_output
+Approx 15% complete for ERR754080_2_paired_output
+Approx 65% complete for ERR754079_1_paired_output
+Approx 60% complete for ERR754079_2_paired_output
+Approx 5% complete for ERR754088_2_paired_output
+Approx 30% complete for ERR754080_1_paired_output
+Approx 15% complete for ERR754088_1_paired_output
+Approx 20% complete for ERR754080_2_paired_output
+Approx 70% complete for ERR754079_1_paired_output
+Approx 10% complete for ERR754088_2_paired_output
+Approx 20% complete for ERR754088_1_paired_output
+Approx 65% complete for ERR754079_2_paired_output
+Approx 35% complete for ERR754080_1_paired_output
+Approx 15% complete for ERR754088_2_paired_output
+Approx 25% complete for ERR754088_1_paired_output
+Approx 25% complete for ERR754080_2_paired_output
+Approx 75% complete for ERR754079_1_paired_output
+Approx 70% complete for ERR754079_2_paired_output
+Approx 20% complete for ERR754088_2_paired_output
+Approx 30% complete for ERR754088_1_paired_output
+Approx 40% complete for ERR754080_1_paired_output
+Approx 30% complete for ERR754080_2_paired_output
+Approx 80% complete for ERR754079_1_paired_output
+Approx 25% complete for ERR754088_2_paired_output
+Approx 35% complete for ERR754088_1_paired_output
+Approx 75% complete for ERR754079_2_paired_output
+Approx 45% complete for ERR754080_1_paired_output
+Approx 30% complete for ERR754088_2_paired_output
+Approx 40% complete for ERR754088_1_paired_output
+Approx 85% complete for ERR754079_1_paired_output
+Approx 35% complete for ERR754080_2_paired_output
+Approx 80% complete for ERR754079_2_paired_output
+Approx 35% complete for ERR754088_2_paired_output
+Approx 45% complete for ERR754088_1_paired_output
+Approx 50% complete for ERR754080_1_paired_output
+Approx 40% complete for ERR754088_2_paired_output
+Approx 90% complete for ERR754079_1_paired_output
+Approx 40% complete for ERR754080_2_paired_output
+Approx 50% complete for ERR754088_1_paired_output
+Approx 85% complete for ERR754079_2_paired_output
+Approx 55% complete for ERR754080_1_paired_output
+Approx 45% complete for ERR754088_2_paired_output
+Approx 55% complete for ERR754088_1_paired_output
+Approx 95% complete for ERR754079_1_paired_output
+Approx 45% complete for ERR754080_2_paired_output
+Approx 90% complete for ERR754079_2_paired_output
+Approx 50% complete for ERR754088_2_paired_output
+Approx 60% complete for ERR754088_1_paired_output
+Approx 60% complete for ERR754080_1_paired_output
+Approx 55% complete for ERR754088_2_paired_output
+Analysis complete for ERR754079_1_paired_output
+Approx 50% complete for ERR754080_2_paired_output
+Approx 95% complete for ERR754079_2_paired_output
+Approx 65% complete for ERR754088_1_paired_output
+Started analysis of ERR754088_2_unpaired_output
+Approx 5% complete for ERR754088_2_unpaired_output
+Approx 10% complete for ERR754088_2_unpaired_output
+Approx 15% complete for ERR754088_2_unpaired_output
+Approx 20% complete for ERR754088_2_unpaired_output
+Approx 25% complete for ERR754088_2_unpaired_output
+Approx 30% complete for ERR754088_2_unpaired_output
+Approx 35% complete for ERR754088_2_unpaired_output
+Approx 40% complete for ERR754088_2_unpaired_output
+Approx 45% complete for ERR754088_2_unpaired_output
+Approx 50% complete for ERR754088_2_unpaired_output
+Approx 55% complete for ERR754088_2_unpaired_output
+Approx 60% complete for ERR754088_2_unpaired_output
+Approx 65% complete for ERR754088_2_unpaired_output
+Approx 70% complete for ERR754088_2_unpaired_output
+Approx 75% complete for ERR754088_2_unpaired_output
+Approx 80% complete for ERR754088_2_unpaired_output
+Approx 85% complete for ERR754088_2_unpaired_output
+Approx 90% complete for ERR754088_2_unpaired_output
+Approx 95% complete for ERR754088_2_unpaired_output
+Analysis complete for ERR754088_2_unpaired_output
+Approx 65% complete for ERR754080_1_paired_output
+Approx 60% complete for ERR754088_2_paired_output
+Approx 70% complete for ERR754088_1_paired_output
+Approx 55% complete for ERR754080_2_paired_output
+Analysis complete for ERR754079_2_paired_output
+Approx 65% complete for ERR754088_2_paired_output
+Approx 75% complete for ERR754088_1_paired_output
+Approx 70% complete for ERR754080_1_paired_output
+Approx 70% complete for ERR754088_2_paired_output
+Approx 60% complete for ERR754080_2_paired_output
+Approx 80% complete for ERR754088_1_paired_output
+Approx 75% complete for ERR754080_1_paired_output
+Approx 75% complete for ERR754088_2_paired_output
+Approx 85% complete for ERR754088_1_paired_output
+Approx 65% complete for ERR754080_2_paired_output
+Approx 80% complete for ERR754088_2_paired_output
+Approx 90% complete for ERR754088_1_paired_output
+Approx 80% complete for ERR754080_1_paired_output
+Approx 85% complete for ERR754088_2_paired_output
+Approx 95% complete for ERR754088_1_paired_output
+Approx 70% complete for ERR754080_2_paired_output
+Approx 85% complete for ERR754080_1_paired_output
+Approx 90% complete for ERR754088_2_paired_output
+Analysis complete for ERR754088_1_paired_output
+Approx 75% complete for ERR754080_2_paired_output
+Approx 95% complete for ERR754088_2_paired_output
+Approx 90% complete for ERR754080_1_paired_output
+Analysis complete for ERR754088_2_paired_output
+Approx 80% complete for ERR754080_2_paired_output
+Approx 95% complete for ERR754080_1_paired_output
+Approx 85% complete for ERR754080_2_paired_output
+Analysis complete for ERR754080_1_paired_output
+Approx 90% complete for ERR754080_2_paired_output
+Approx 95% complete for ERR754080_2_paired_output
+Analysis complete for ERR754080_2_paired_output
+done
