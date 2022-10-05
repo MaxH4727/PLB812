@@ -20,7 +20,12 @@ fastq_list="ERR754054 ERR754062 ERR754067 ERR754079 ERR754080 ERR754088"
 for fastq in ${fastq_list}
 do
         #Trimmomattic script with arguments
-        java -jar /opt/software/Trimmomatic/0.36-Java-1.8.0_92/trimmomatic-0.36.jar PE -threads 6 ${fastq}_1.fastq.gz ${fastq}_2.fastq.gz ${fastq}_1_paired_output ${fastq}_1_unpaired_output ${fastq}_2_paired_output ${fastq}_2_unpaired_output ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa SLIDINGWINDOW:4:15 MINLEN:36
+	trimmomatic PE -phred33 -threads 6 \
+	${fastq}_1.fastq.gz ${fastq}_2.fastq.gz \
+	${fastq}_1_paired_output ${fastq}_1_unpaired_output \
+	${fastq}_2_paired_output ${fastq}_2_unpaired_output \
+	ILLUMINACLIP:/mnt/home/harmanm4/miniconda3/envs/PLB812/share/trimmomatic-0.39-2/adapters/TruSeq2-PE.fa:2:30:10 \
+	SLIDINGWINDOW:4:15 MINLEN:36
 
 done
 

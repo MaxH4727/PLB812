@@ -1,0 +1,17 @@
+PLB 812 Assignment 3: Trimming
+
+Installed trimmomatic to my PLB812 condaa enviroment for easier pathing to the proper Illumina adapter indexes.
+
+Took old loop script from assignment two, changed the working directory to operate only within my raw fastq directory, and assigned the ERR number for each of my 6 paired-end read sets to a list.
+
+For each variable in that list, used a loop to call trimmomatic, and used {variable}<_1/_2> to differentiate between the sets of paired reads when providing them to trimmoamatic and for setting the output file names.
+
+Designed 6 threads for each pair, adapter sequences from conda env directory,and a sliding window and min length.
+
+Called fastqc on any resulting output files.
+
+Moved output_qc files manually to /Lab3. In future, will work to code this step into the script.
+
+Major challenge encountered was an issue with the adapter input because I initially failed to designate what I think were parameters to read those fasta files after the path. After designating the standard values from the documentation, the script worked.
+
+Also encoutered brief formatting challenge. Due to the long strucutre of the trimmomatic command, for easy viewing and editing, I wanted to break the argument into multiple lines, but initially did so with backwards slashes insteads or forward, leading to interpretation of the new lines as new commands. Easy correction.
