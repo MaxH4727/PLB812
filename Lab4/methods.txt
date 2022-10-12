@@ -1,0 +1,29 @@
+Indexing
+
+Downloaded Arabidopsis annotation gff3 file from phytozome using
+curl --cookie jgi_session=/api/sessions/9cb79e83c9ade193005a391b9fbc13bf --output download.20221011.215408.zip -d "{\"ids\":{\"Phytozome-454\":[\"592f5bc27ded5e4e5bbb8e93\"],\"Phytozome-447\":[\"587b0ada7ded5e4229d885a0\"]}}" -H "Content-Type: application/json" https://files.jgi.doe.gov/filedownload/
+
+Converted to gtf using gffread
+
+Created splice site and exon files, then generated the index.
+	hisat2_extract_splice_sites.py Athaliana_447_Araport11.gene_exons.gtf > Athaliana_447_Araport11.gene_exons.splicesites.tsv
+
+	hisat2_extract_exons.py Athaliana_447_Araport11.gene_exons.gtf > Athaliana_447_Araport11.exons.tsv
+
+	hisat2-build -p 8 --ss *splicesites.tsv --exon *exons.tsv Athaliana_447_TAIR10.fa At_RNA_REF_INDEX
+
+This generated 8 REF_INDEX files with the .ht2 suffix
+
+
+Alignment
+command: hisat2 -p 6 -x /mnt/home/harmanm4/PLB812/Arabidopsis_Genome/Index/At_RNA_REF_INDEX -1 ${sra}_1_paired_output -2 ${sra}_2_paired_output | samtools view -bh | samtools sort > ${sra}_aligned.bam
+
+Explantion:
+-p 6 = 6 threads for 6 datasets
+-x = desginated the base name and path for the 8 index files
+-1 and -2 = forward and reverse paired read sets for the given dataset outlined in a list and called int he loop via ${sra}
+
+piped that output into same tools as in the powerpoint to convert to a bam file as it's being written.
+
+Looked at slurm output file to gather number and percentages of unique and total aligned reads per dataset. Entered into excel file and uploaded directly to github.
+
