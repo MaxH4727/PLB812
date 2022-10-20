@@ -20,7 +20,7 @@ sra_list="ERR754054 ERR754062 ERR754067 ERR754079 ERR754080 ERR754088"
 for sra in ${sra_list}
 do
         #HTseq command
-        python -m HTSeq.scripts.count -f bam -s yes -n 6 -c ${sra}_htseq_output.tsv ${sra}_aligned.bam /mnt/home/harmanm4/PLB812/Arabidopsis_Genome/Athaliana_447_Araport11.gene_exons.gtf
+        python -m HTSeq.scripts.count -f bam -s no -n 6 -c ${sra}_htseq_output_unstranded.tsv ${sra}_aligned.bam /mnt/home/harmanm4/PLB812/Arabidopsis_Genome/Athaliana_447_Araport11.gene_exons.gtf
 
 done
 
