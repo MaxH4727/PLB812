@@ -1,0 +1,16 @@
+Lab 5 - DEseq - methods
+
+Did not initially know strandedness of the libraries, and so intiialy ran htseq as stranded just to try it. After finding the proper page of the SRA experiments detailing experimental condition and strandedness, re-ran htseq-count properly. Script included in directory, very simialar for loop as with the last couple assignments.
+
+Initially forgot to designate a variable dependent output, and so my first run continuously overwrote the previous output file. Simple fix, re-ran successfully.
+
+Coppied output tsvs to Lab5 folder. Pushed to GitHub.
+
+Downloaded from Github to local directory. Renamed according to condition. Read into R but had to write some code to adjust the names in order to maintain the seperate replicates but get a column only containing "Control" or "Drought" to be used for the condition design in DESeq. This was by far my biggest obstacle, but makes sense now that I understand it.
+
+Used example code, but adjusted for semantic difference in design ("genotype" vs "condition") and other similiar changes throughout the script.
+
+Ran successfully. Generated MAplot. Saved to computer and uploaded to GitHub. 
+
+Differentially expressed genes (padj < .05) = 2. Non-DE = 18904
+
