@@ -1,0 +1,13 @@
+Lab 7 - BWA Alignment - Methods
+
+Already had arabidopsis genome downloaded. Used SRA prefetch o download dataset and fastq dump to convert.
+
+Called fastqc to check quality of reads before trimming. Used trimmomattic with LEADING:25 and TRAILING:25 arguments to trim read ends below a 25 phred score. 
+
+Re-called fastqc and placed files and htmls of pre and post qcs into seperate directories
+
+Created new conda enviroment into which installed BWA and Samtools
+
+Used script to create BWA index from Arabidopsis genome before the actual alignment. Piped the alignment output into samtools for BAM file conversion. 
+
+Finally, used samtools flagstat for final file generation.
