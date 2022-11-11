@@ -1,0 +1,10 @@
+Lab 6 - TopGo - Methods
+
+After re-running DESeq w/ the looser p-value constraints,downloaded GO Term annotation from phytozome and coppied in example R script. Wrote small script to fix gene IDs and ensure they align.
+
+Made two gene lists by calling for Log2FoldChanges above and below one, then ran TopGo for all three lists for both the up and down regulated genes.
+
+Wrote output tables to CSVs, cloned github directory to local drive on laptop, moved appropriate/edited files from the last two labs, pushed.
+
+Wrote methods and pushed.
+
