@@ -1,0 +1,24 @@
+Lab 8 - Calling Genetic Varients w/ GATK
+
+Used Picard Mark Duplicates to ark the dublicates within the .bam alignmetn file create in lab 7.
+java -jar ~/miniconda3/pkgs/picard-2.27.4-hdfd78af_0/share/picard-2.27.4-0/picard.jar MarkDuplicates \
+      I=SRR492407_aligned.bam \
+      O=SRR492407_aligned_marked_duplicates.bam \
+      M=marked_dup_metrics.txt
+
+Added read groups using picard AddOrReplaceReadGroups with the arguments provided
+java -jar ~/miniconda3/pkgs/picard-2.27.4-hdfd78af_0/share/picard-2.27.4-0/picard.jar AddOrReplaceReadGroups I=SRR492407_aligned_marked_duplicates.bam \
+O=SRR492407_dup_mark_read_add.bam \
+RGID=1 \
+RGLB=lib1 \
+RGPL=ILLUMINA \
+RGPU=NA \
+RGSM=WS2
+
+After mutliple confusing attemtps trying to install gatk unsuccessfully, followed the instructions inthe slides with success. Indexed Arabidopsis genome .fa file using samtools. Finally, used gatk to call varients.
+gatk HaplotypeCaller \
+-R /mnt/home/harmanm4/PLB812/Arabidopsis_Genome/Athaliana_447_TAIR10.fa \
+-I SRR492407_dup_mark_read_add.bam \
+-O SRR492407_called_vars.vcf
+
+
